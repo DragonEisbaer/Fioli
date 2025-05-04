@@ -1,0 +1,214 @@
+{
+  "frühstück": [
+    {
+      "label": "Pancakes",
+      "value": "pancakes",
+      "zutaten": [
+        {
+          "name": "Mehl",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Milch",
+          "quantity": 300,
+          "unit": "ml"
+        },
+        {
+          "name": "Eier",
+          "quantity": 2,
+          "unit": "stück"
+        }
+      ],
+      "anleitung": "Babakdbf"
+    },
+    {
+      "label": "Müsli",
+      "value": "muesli",
+      "zutaten": [
+        {
+          "name": "Haferflocken",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Milch",
+          "quantity": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Honig",
+          "quantity": 1,
+          "unit": "el"
+        }
+      ]
+    },
+    {
+      "label": "Milch",
+      "value": "milch",
+      "zutaten": [
+        {
+          "name": "milch",
+          "quantity": 1,
+          "unit": "l"
+        }
+      ]
+    },
+    {
+      "label": "Hi",
+      "value": "hi",
+      "zutaten": [
+        {
+          "name": "mehr",
+          "quantity": 1,
+          "unit": "g"
+        }
+      ],
+      "anleitung": "Hallo:\n\n\ndsadsa"
+    },
+    {
+      "label": "Porridge",
+      "value": "porridge",
+      "zutaten": [
+        {
+          "name": "porridge",
+          "quantity": 150,
+          "unit": "g"
+        }
+      ],
+      "anleitung": ""
+    }
+  ],
+  "mittagessen": [
+    {
+      "label": "Spaghetti Bolognese",
+      "value": "spaghetti-bolognese",
+      "zutaten": [
+        {
+          "name": "Spaghetti",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "name": "Hackfleisch",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Tomatensauce",
+          "quantity": 400,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "label": "Caesar Salad",
+      "value": "caesar-salad",
+      "zutaten": [
+        {
+          "name": "Römersalat",
+          "quantity": 1,
+          "unit": "stück"
+        },
+        {
+          "name": "Hähnchenbrust",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Parmesan",
+          "quantity": 50,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "abendessen": [
+    {
+      "label": "Pizza Margherita",
+      "value": "pizza-margherita",
+      "zutaten": [
+        {
+          "name": "Pizzateig",
+          "quantity": 1,
+          "unit": "stück"
+        },
+        {
+          "name": "Tomatensauce",
+          "quantity": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": 150,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "label": "Sushi",
+      "value": "sushi",
+      "zutaten": [
+        {
+          "name": "Sushireis",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "name": "Nori-Blätter",
+          "quantity": 5,
+          "unit": "stück"
+        },
+        {
+          "name": "Lachs",
+          "quantity": 100,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "snack": [
+    {
+      "label": "Chips",
+      "value": "chips",
+      "zutaten": [
+        {
+          "name": "Kartoffeln",
+          "quantity": 300,
+          "unit": "g"
+        },
+        {
+          "name": "Salz",
+          "quantity": 1,
+          "unit": "TL"
+        },
+        {
+          "name": "Öl",
+          "quantity": 100,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "label": "Schokolade",
+      "value": "schokolade",
+      "zutaten": [
+        {
+          "name": "Kakaopulver",
+          "quantity": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Zucker",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Milch",
+          "quantity": 200,
+          "unit": "ml"
+        }
+      ]
+    }
+  ]
+}

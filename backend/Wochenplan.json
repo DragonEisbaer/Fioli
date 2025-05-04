@@ -1,0 +1,44 @@
+{
+  "montag": {
+    "frühstück": "pancakes",
+    "mittagessen": null,
+    "abendessen": null,
+    "snack": null
+  },
+  "dienstag": {
+    "frühstück": null,
+    "mittagessen": null,
+    "abendessen": null,
+    "snack": null
+  },
+  "mittwoch": {
+    "frühstück": null,
+    "mittagessen": null,
+    "abendessen": null,
+    "snack": null
+  },
+  "donnerstag": {
+    "frühstück": null,
+    "mittagessen": null,
+    "abendessen": null,
+    "snack": null
+  },
+  "freitag": {
+    "frühstück": null,
+    "mittagessen": null,
+    "abendessen": null,
+    "snack": null
+  },
+  "samstag": {
+    "frühstück": null,
+    "mittagessen": null,
+    "abendessen": null,
+    "snack": null
+  },
+  "sonntag": {
+    "frühstück": null,
+    "mittagessen": null,
+    "abendessen": null,
+    "snack": null
+  }
+}
